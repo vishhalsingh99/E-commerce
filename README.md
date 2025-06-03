@@ -1,9 +1,4 @@
 
-# 🚀 Vishal Singh – Full-Stack Developer Projects
-
-Welcome to my collection of full-stack web development projects built using MERN stack, PHP, MySQL, and other modern tools. This repository showcases real-world applications I've built as part of my learning and passion for web development.
-
-
 ## 🛒 E-commerce Web Application
 
 A full-stack **e-commerce platform** with cart management, coupon support, Stripe payments, and admin tools.
