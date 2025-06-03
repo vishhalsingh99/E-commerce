@@ -3,67 +3,6 @@
 
 Welcome to my collection of full-stack web development projects built using MERN stack, PHP, MySQL, and other modern tools. This repository showcases real-world applications I've built as part of my learning and passion for web development.
 
----
-
-## 🎧 Realtime Spotify Clone
-
-A full-stack music streaming app inspired by **Spotify**, with real-time updates, live user presence, and integrated chat.
-
-### ✨ Features
-
-- 🎵 Play music, skip tracks, and control volume
-- 💬 Real-time chat between users
-- 🟢 Live user presence display
-- 🛠️ Admin dashboard to upload albums/songs
-- 👀 View what others are listening to in real-time
-- 📊 Realtime analytics and usage tracking
-
-### 🛠 Tech Stack
-
-- **Frontend**: React, Tailwind CSS, Vite  
-- **Backend**: Node.js, Express  
-- **Database**: MongoDB  
-- **Authentication**: Clerk  
-- **Real-Time**: WebSockets (Socket.io)  
-- **Media Storage**: Cloudinary
-
-### 🚀 Getting Started
-
-```bash
-# Backend
-cd backend
-npm install
-npm run dev
-
-# Frontend
-cd ../frontend
-npm install
-npm run dev
-```
-
-### 📂 Environment Variables
-
-#### Backend `.env`
-
-```env
-PORT=...
-MONGODB_URI=...
-ADMIN_EMAIL=...
-NODE_ENV=...
-CLOUDINARY_API_KEY=...
-CLOUDINARY_API_SECRET=...
-CLOUDINARY_CLOUD_NAME=...
-CLERK_PUBLISHABLE_KEY=...
-CLERK_SECRET_KEY=...
-```
-
-#### Frontend `.env`
-
-```env
-VITE_CLERK_PUBLISHABLE_KEY=...
-```
-
----
 
 ## 🛒 E-commerce Web Application
 
